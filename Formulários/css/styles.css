@@ -1,0 +1,19 @@
+/* Primeiro formulário */
+ 
+body{
+    padding-bottom: 500px;
+}
+ 
+div{
+    margin-bottom: 15px;
+}
+ 
+div input, div label{
+    display: block;
+}
+
+/* Input radio (Alinhar um elemento ao lado do outro) */
+
+.radio label, .radio input, .radio span{
+    display: inline-block;
+}
